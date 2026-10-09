@@ -1,6 +1,7 @@
 # Rob Davidson
 
 I lead a niche, B2b software division in St. Louis. I obsess about sales, marketing, and product strategy. 
+
 When I'm not driving growth, I'm helping teams setup smarter AI workflows.
 
 - **Portfolio:** [davidsonventures.com](https://www.davidsonventures.com), built as a small Roman
